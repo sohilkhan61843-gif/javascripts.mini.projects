@@ -1,4 +1,4 @@
-﻿<p> Currency converter </p> 
+﻿<p> Currency converter mini projects  </p> 
 
  
  
